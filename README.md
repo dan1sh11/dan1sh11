@@ -9,7 +9,7 @@ I'm currently majoring in Computer Science, learning to have a broad and in-dept
 **My Tech Stack, So Far**:  
 -Languages: Python, SQL, HTML, CSS  
 -Tools: Git, Github, VS Code  
--Learning: Flask  
+-Playing around with: Flask  
 
 **Open to New Learning Experiences**:  
 -Beginner-friendly frontend and backend projects    
