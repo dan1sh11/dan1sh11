@@ -17,7 +17,7 @@ I'm currently majoring in Computer Science, learning to have a broad and in-dept
 
 **Find Me**:  
 Gmail: danish.lnu.codes@gmail.com     
-LinkedIn: linkedin.com/in/dan1sh11
+LinkedIn: [dan1sh11](www.linkedin.com/in/dan1sh11)
 
 <!---
 dan1sh11/dan1sh11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
