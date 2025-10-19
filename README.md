@@ -12,7 +12,7 @@ I'm currently majoring in Computer Science, with fond interests in Backend, Syst
 -Playing around with: Flask  
 
 **Open to New Learning Experiences**:  
--Beginner-friendly frontend and backend projects    
+-Beginner-friendly projects    
 -Anything involving problem-solving, logic, and automation  
 
 **Find Me**:  
