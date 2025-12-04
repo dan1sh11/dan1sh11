@@ -4,12 +4,12 @@ I'm currently majoring in Computer Science, with fond interests in Backend, Syst
 
 **What I'm Working On**:  
 -Learning core CS concepts through university courses and projects using the internet.  
--Exploring frontend and backend development using HTML, CSS, JavaScript, and Python.  
+-Exploring backend development using HTML, CSS, Python, etc.  
 
 **My Tech Stack, So Far**:  
--Languages: Python, SQL, HTML, CSS  
--Tools: Git, Github, VS Code  
--Building Projects using: Flask & Django   
+-Languages: Python, SQL, HTML, CSS, PHP, JavaScript  
+-Tools: Git, Github, VS Code, Ubuntu  
+-Building Projects using: Flask/FastAPI & Django   
 
 **Open to New Learning Experiences**:  
 -Beginner-friendly projects    
