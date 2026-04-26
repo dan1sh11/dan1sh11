@@ -1,6 +1,6 @@
 Hi, I’m Danish
 
-I'm currently majoring in Computer Science, with fond interests in Backend, Systems, and AI/ML. I'm currently building a strong foundation in Python, with the hopes of solving real-world problems through programming.
+I'm currently majoring in Computer Science, with fond interests in Backend, Systems, and AI/ML. I'm currently building a strong foundation through relevant projects to strengthen my expertise in respective fields.
 
 **What I'm Working On**:  
 -Learning core CS concepts through university courses and projects using the internet.  
