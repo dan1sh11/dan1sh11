@@ -1,6 +1,6 @@
 Hi, I’m Danish
 
-I'm currently majoring in Computer Science, with fond interests in Backend, Systems, and AI/ML. I'm currently building a strong foundation through relevant projects to strengthen my expertise in respective fields.
+I'm currently majoring in Computer Science, with fond interests in Backend, Systems, and AI/ML. I'm currently building a strong foundation through relevant projects and necessary real-world experience to strengthen my expertise in respective fields.
 
 **What I'm Working On**:  
 -Learning core CS concepts through university courses and projects using the internet.  
@@ -9,11 +9,7 @@ I'm currently majoring in Computer Science, with fond interests in Backend, Syst
 **My Tech Stack, So Far**:  
 -Languages: Python, SQL, JavaScript  
 -Tools: Git, Github  
--Building Projects using: Flask, FastAPI & Django   
-
-**Open to New Learning Experiences**:  
--Beginner-friendly projects    
--Anything involving problem-solving, logic, and automation  
+-Building Projects using: Flask, FastAPI & Django    
 
 **Find Me**:  
 Gmail: danish.lnu.codes@gmail.com     
