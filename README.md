@@ -12,9 +12,9 @@ I'm currently majoring in Computer Science, with fond interests in Backend, Syst
 -Building Projects using: Flask, FastAPI & Django    
 
 **Find Me**:  
-Portfolio: [dan1sh11.github.io](https://dan1sh11.github.io/){target="_blank"}  
+Portfolio: [dan1sh11.github.io](https://dan1sh11.github.io/)  
 Gmail: danish.lnu.codes@gmail.com     
-LinkedIn: [linkedin.com/in/dan1sh11](https://www.linkedin.com/in/dan1sh11/){target="_blank"}
+LinkedIn: [linkedin.com/in/dan1sh11](https://www.linkedin.com/in/dan1sh11/)
 
 
 <!---
