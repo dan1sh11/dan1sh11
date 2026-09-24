@@ -1,17 +1,12 @@
-Hi, I’m Danish
+Hi, I’m Danish,
+I'm currently majoring in Computer Science, with fond interests in Backend Engineering, Systems Design, and Applied Intelligence.  
 
-I'm currently majoring in Computer Science, with fond interests in Backend, Systems, and AI/ML. I'm currently building a strong foundation through relevant projects and necessary real-world experience to strengthen my expertise in respective fields.
 
-**What I'm Working On**:  
--Learning core CS concepts through university courses and projects using the internet.  
--Exploring backend development using Python, MySQL, etc.  
+**What I'm Working On Right Now**:  
+-LLM-Driven Task-and-Motion Planner  
+    
 
-**My Tech Stack, So Far**:  
--Languages: Python, SQL, JavaScript  
--Tools: Git, Github  
--Building Projects using: Flask, FastAPI & Django    
-
-**Find Me**:  
+**Find Me (Open to collaboration experiences!!)**:  
 Portfolio: [dan1sh11.github.io](https://dan1sh11.github.io/)  
 Gmail: danish.lnu.codes@gmail.com     
 LinkedIn: [linkedin.com/in/dan1sh11](https://www.linkedin.com/in/dan1sh11/)
